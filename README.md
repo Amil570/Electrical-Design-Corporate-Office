@@ -1,0 +1,1 @@
+Developed a detailed AutoCAD drawing of a conference room, incorporating seating arrangements, lighting layouts, electrical outlets, switches, and power distribution points. The design focuses on functionality, space utilization, proper illumination, and efficient electrical planning.
